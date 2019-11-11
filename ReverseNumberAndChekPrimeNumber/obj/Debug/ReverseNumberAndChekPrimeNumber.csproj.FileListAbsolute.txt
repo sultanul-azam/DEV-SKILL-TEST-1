@@ -1,0 +1,6 @@
+E:\DEV SKILL COURSE\Class5Test\ReverseNumberAndChekPrimeNumber\bin\Debug\ReverseNumberAndChekPrimeNumber.exe.config
+E:\DEV SKILL COURSE\Class5Test\ReverseNumberAndChekPrimeNumber\bin\Debug\ReverseNumberAndChekPrimeNumber.exe
+E:\DEV SKILL COURSE\Class5Test\ReverseNumberAndChekPrimeNumber\bin\Debug\ReverseNumberAndChekPrimeNumber.pdb
+E:\DEV SKILL COURSE\Class5Test\ReverseNumberAndChekPrimeNumber\obj\Debug\ReverseNumberAndChekPrimeNumber.csprojAssemblyReference.cache
+E:\DEV SKILL COURSE\Class5Test\ReverseNumberAndChekPrimeNumber\obj\Debug\ReverseNumberAndChekPrimeNumber.exe
+E:\DEV SKILL COURSE\Class5Test\ReverseNumberAndChekPrimeNumber\obj\Debug\ReverseNumberAndChekPrimeNumber.pdb
