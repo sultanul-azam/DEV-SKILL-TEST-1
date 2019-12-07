@@ -1,0 +1,11 @@
+E:\DEV SKILL COURSE\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.0\CollectionPractice.exe
+E:\DEV SKILL COURSE\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.0\CollectionPractice.deps.json
+E:\DEV SKILL COURSE\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.0\CollectionPractice.runtimeconfig.json
+E:\DEV SKILL COURSE\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.0\CollectionPractice.runtimeconfig.dev.json
+E:\DEV SKILL COURSE\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.0\CollectionPractice.dll
+E:\DEV SKILL COURSE\CollectionPractice\CollectionPractice\bin\Debug\netcoreapp3.0\CollectionPractice.pdb
+E:\DEV SKILL COURSE\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.0\CollectionPractice.csprojAssemblyReference.cache
+E:\DEV SKILL COURSE\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.0\CollectionPractice.AssemblyInfoInputs.cache
+E:\DEV SKILL COURSE\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.0\CollectionPractice.AssemblyInfo.cs
+E:\DEV SKILL COURSE\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.0\CollectionPractice.dll
+E:\DEV SKILL COURSE\CollectionPractice\CollectionPractice\obj\Debug\netcoreapp3.0\CollectionPractice.pdb
