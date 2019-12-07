@@ -1,0 +1,6 @@
+E:\DEV SKILL COURSE\Class5Test\Class5Test\bin\Debug\Class5Test.exe.config
+E:\DEV SKILL COURSE\Class5Test\Class5Test\bin\Debug\Class5Test.exe
+E:\DEV SKILL COURSE\Class5Test\Class5Test\bin\Debug\Class5Test.pdb
+E:\DEV SKILL COURSE\Class5Test\Class5Test\obj\Debug\Class5Test.csprojAssemblyReference.cache
+E:\DEV SKILL COURSE\Class5Test\Class5Test\obj\Debug\Class5Test.exe
+E:\DEV SKILL COURSE\Class5Test\Class5Test\obj\Debug\Class5Test.pdb

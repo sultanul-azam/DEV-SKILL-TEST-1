@@ -1,0 +1,6 @@
+E:\DEV SKILL COURSE\Class5Test\SummationOfDiagonalInputInTwoDimensionArray\bin\Debug\SummationOfDiagonalInputInTwoDimensionArray.exe.config
+E:\DEV SKILL COURSE\Class5Test\SummationOfDiagonalInputInTwoDimensionArray\bin\Debug\SummationOfDiagonalInputInTwoDimensionArray.exe
+E:\DEV SKILL COURSE\Class5Test\SummationOfDiagonalInputInTwoDimensionArray\bin\Debug\SummationOfDiagonalInputInTwoDimensionArray.pdb
+E:\DEV SKILL COURSE\Class5Test\SummationOfDiagonalInputInTwoDimensionArray\obj\Debug\SummationOfDiagonalInputInTwoDimensionArray.csprojAssemblyReference.cache
+E:\DEV SKILL COURSE\Class5Test\SummationOfDiagonalInputInTwoDimensionArray\obj\Debug\SummationOfDiagonalInputInTwoDimensionArray.exe
+E:\DEV SKILL COURSE\Class5Test\SummationOfDiagonalInputInTwoDimensionArray\obj\Debug\SummationOfDiagonalInputInTwoDimensionArray.pdb
